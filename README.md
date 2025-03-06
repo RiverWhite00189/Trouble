@@ -1,5 +1,6 @@
 ## Trouble
-This program runs a game of Trouble for 4 players. A player wins once all their pieces have entered the final line! (Check out the game & its files for a full manual!)
+This program runs a game of Trouble for 4 players. A player wins once all their pieces have entered the final line!  
+(Check out the game & its files for a full manual!)
 
 ## New Stuff! (Sort of)
 I worked a bunch with pygame this time!
