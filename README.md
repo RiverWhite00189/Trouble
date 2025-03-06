@@ -7,7 +7,7 @@ I worked a bunch with pygame this time!
 
 ## Why was this Developed?
 
-ENGR 102 final project that I did all myself... 
+The ENGR 102 final project that I did all myself... 
 
 # Note:
   - Win conditions are significantly harder than a regular game of Trouble (it will take forever to finish)
