@@ -1,0 +1,16 @@
+Instructions:
+Set Up:
+Each player has four pegs of the same color and in their color's home. 
+Objective:
+Players move their pegs around the board, trying to get all four of their pegs into their color's finish line to win.
+Rolling the dice:
+Players take turns rolling the die by pressing the Pop-O-Matic bubble. Red goes first and everyone else follows clockwise.
+If a player rolls a 6, they may take out a peg from their home. Note: pegs & actions are chosen by the user in the terminal.
+If they roll any other number, they may move a peg of their color already on the board that many spaces. 
+Another player in space:
+If another peg, even your own color, is in the place your peg wants to move, it will return the original peg back to it's home.
+Entering the finish line:
+If you are lucky, you will land on your color's start space. Only this will allow you to enter that peg into the finish line. 
+If you are even one space more, you will have to go all the way around again. 
+Winning:
+The first player to get all four of their pegs into the finish line wins.
