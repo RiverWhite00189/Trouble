@@ -1,15 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:   	Aishwarya Paryani
-#          	Arush Jha
-#          	Emily Seaboalt
-#          	Noah McClure
-# Section:  	210
-# Assignment:   Lab 13
-# Date:     	11/25/2024
-
 import pygame
 import sys
 import random
